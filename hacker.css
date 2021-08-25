@@ -776,7 +776,7 @@ a.thumbnail:hover,a.thumbnail:focus,a.thumbnail.active{border-color:#0f0}
 .alert-danger{background-color:#3c3c3c;border-color:#343434;color:#d00}.alert-danger hr{border-top-color:#272727}
 .alert-danger .alert-link{color:#a00}
 .alert-primary{color:#a2bbff;background-color:#3c3c3c;border-color:#2f2f2f}.alert-primary hr{border-top-color:#9fcdff}.alert-primary .alert-link{color:#002752}
-.alert-secondary{color:#89c7f0;background-color:#3c3c3c;border-color:#2f2f2f}.alert-secondary hr{border-top-color:#c8cbcf}.alert-secondary .alert-link{color:#202326}
+.alert-secondary{color:#b25df7;background-color:#3c3c3c;border-color:#2f2f2f}.alert-secondary hr{border-top-color:#c8cbcf}.alert-secondary .alert-link{color:#202326}
 .alert-light{color:#818182;background-color:#fefefe;border-color:#fdfdfe}.alert-light hr{border-top-color:#ececf6}.alert-light .alert-link{color:#686868}
 .alert-dark{color:#1b1e21;background-color:#d6d8d9;border-color:#c6c8ca}.alert-dark hr{border-top-color:#b9bbbe}.alert-dark .alert-link{color:#040505}
 @-webkit-keyframes progress-bar-stripes{from{background-position:40px 0} to{background-position:0 0}}@keyframes progress-bar-stripes{from{background-position:40px 0} to{background-position:0 0}}.progress{overflow:hidden;height:20px;margin-bottom:20px;background-color:#3c3c3c;border-radius:0;-webkit-box-shadow:inset 0 1px 2px rgba(0,0,0,0.1);box-shadow:inset 0 1px 2px rgba(0,0,0,0.1)}
